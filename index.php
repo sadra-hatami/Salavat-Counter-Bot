@@ -65,7 +65,6 @@ if(isset($update->callback_query)){
                 [
                     ['text'=>"📿ذکر بفرست📿",'callback_data'=>"1"]
                 ],[
-                    ['text'=>"📿سورس ربات📿",'url'=>'https://netparadis.com/salavat-shomar-telegram-bot-php']
                 ]
             ]
         ])
